@@ -1,7 +1,8 @@
 # SuperTrend
-SuperTrend alert bot for Discord
-
-
+SuperTrend alert bot for Discord.
+Simple made Discord webhook alerts for SuperTrend indicator. 
+This repostory will have updates later so stay tuned and remember to star it!
+If you make any changes to the code make sure to fork this project.
 # How to use?
 
 On line 15 put your Discord webhook there
